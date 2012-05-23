@@ -1,9 +1,99 @@
 Vaga
 ====
 
-[Preencha aqui a vaga que você pretende]
+Desenvolvimento Web - Frontend
 
 CV
 ==
 
-[Preencha aqui o seu cv]
+Sergio Nascimento
+Desenvolvedor Web
+Casado - 3 filhos - Não fumante
+Rua Almino Afonso, 150 - Apto 53 bloco A - Itaquera
+São Paulo, SP
+Tel.: 11 2054-5784
+Cel.: 11 9491-9272
+E-mail/Gtalk: sergiowebdesigner@gmail.com
+Twitter: @elvisdetona
+LinkedIn: http://br.linkedin.com/in/elvisdetona
+
+
+Resumo das qualificações
+
+Gerencia em estratégia digital, acessibilidade, usabilidade.
+Coordenação de equipe (TI / Design / Redação); 
+Domínio em Webstandards, Tableless (Html5/Css3/Js) e Websemântica;
+Bons conhecimentos em SEO (Search engine optimization);
+Desenvolvimento e acompanhamento de projetos utilizando RedMine, Rally, metodologia Scrum e GIT para controle de versão;
+Conhecimento Intermediário em desenvolvimento com Javascript, Php/Mysql e noções de ASP/MS-SQL;
+
+Especialidade
+Tenho total domínio em desenvolvimento web utilizando Webstandards (Websemantica, Tableless, Html5/Xhtml, CSS/CSS3/JS), sempre seguindo as normas do W3C, Usabilidade, Acessibilidade e também, um vasto conhecimento/vivência com coordenação de equipes / projetos e SEO (Search engine optimization) e também, utilizo RedMine, Rally, metodologia Scrum e GIT para controle de versão;
+
+Experiencia Profissional
+
+Analista de Interface
+GoNow Tecnologia
+Information Technology and Services industry
+Agosto 2011 – Abril 2012 - São Paulo
+ - Desenvolvimento ágil utilizando scrum como metodologia e html5, css3, js, php, cms (wp) / velocity para criação de sites estáticos e dinâmicos.
+
+Gerente de Estratégia Digital
+Soyuz Sistemas
+Program Development industry
+Maio 2011 – Julho 2011
+ - Entrei na Soyuz para ajudar os clientes a tomar boas decisões em seus sites para melhorar os resultados, além disso, também possuo amplos conhecimentos em desenvolvimento web, webstandards, usabilidade e acessibilidade, o que garante o compromisso com a qualidade de código.
+
+Coordenador de Projetos Web
+AO5 - Agência Orange Five
+Internet industry
+Agosto 2005 – Maio 2011
+ - Coordenação de equipe (TI / Design / Redação);
+ - Domínio em Webstandards, Tableless (Html 5 / Xhtml / Css) e Websemântica;
+ - Bons conhecimentos em SEO (Search engine optimization);
+
+Webdesigner
+SINDHOSP - Sindicato dos Hospitais de São Paulo
+Fevereiro 2004 – Março 2005
+ - Manutenção e atualização do Website da empresa / Hotsites / E-mail Marketing / Banners / Logomarcas e Tratamento de Imagens.
+Além das função de Webdesigner, também auxiliava no departamento de marketing e comunicação nas publicações off-line (jornal, panfletos, banners).
+Nesta época, utilizava como ferramentas de trabalho o Macromedia Dreamweaver, Notepad ou qualquer outro editor para HTML e Macromedia Fireworks8, Adobe Photoshop, Ilustrator e Corel Draw para ilistrações / Design.
+
+Webdeveloper
+Workstation - Injapan.com
+Novembro 2003 – Janeiro 2004
+ - Desenvolvimento de Websites e Aplicativos Web utilizando Asp / Xml / SQL para os aplicativos e Html para websites.
+
+Formação
+
+W3C Brasil
+Setembro - 2010, Certificação HTML5
+2010 – 2010
+
+Faculdade Flamingo
+Internet Business & Webdesign
+2003 – 2005
+
+Eventos / Palestras
+www.elvisdetona.com.br
+
+Front In BH
+Evento em Belo Horizonte focado para desenvolvedores FrontEnd
+www.frontinbh.com.br - Workshop de HTML5 e CSS3 (2011)
+ - Fui convidado para demonstrar e dar algumas dicas do dia a dia usando html5 e css3.
+
+Front In Londrina
+Evento em Londrina focado para desenvolvedores FrontEnd
+www.frontinlondrina - A Nova Semântica do HTML5 (2011)
+ - Fui convidado para demonstrar a nova semântica do html5. Porque usar, como usar, conceitos de semântica, microdados e o que influencia nos resultados nos mecanismos de busca, mobile, leitores de tela e qualquer outro dispositivo que tenha acesso a web, além de algumas dicas do que fazer ou não.
+
+Web Expo Forum
+Evento para profissionais de internet
+www.webexpoforum.com.br - O poder do HTML5, ao vivo e sem cortes (2011)
+ - Demonstrei junto com 2 amigos, algumas das novas funcionalidades do HTML5, como tags novas, inputs de formulário, storage, canvas, video... fizemos uma demonstração mostrando o Poder do HTML5, em relação a versão anterior (xhtml / html 4).
+
+Últimos trabalhos desenvolvidos
+- Gonow Tecnologia (Frontend + Backend WP) - www.gonow.com.Br.
+- Blog do site Click a Porter (Frontend + Backend WP) -www.clickaporter.com.br/blog
+- Esquadrão Verde Tang (Trabalhei 5 sprints neste site fazendo a parte de Frontend. Ele tem constante atualização e a cada sprint tem uma funcionalidade nova) - www.esquadraoverdetang.com.br
+- IBC Coaching (Finalização do Frontend e toda parte de backend WP) -www.ibccoaching.com.br
